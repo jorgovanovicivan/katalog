@@ -5,41 +5,52 @@ import CardItem from './CardItem';
 function Destinations() {
   return (
     <div className='cards'>
-      <h1>Check out these EPIC Destinations!</h1>
+      <h1>TOP DESTINACIJE</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='img/senja.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
-              path='/services'
+              src='img/senja.png'
+              text='Explore the hidden waterfall deep inside the Amazon Jungle Explore the hidden waterfall deep inside the Amazon Jungle Explore the hidden waterfall deep inside the Amazon Jungle'
+              label='Norveška'
+              path='/galerija'
             />
+            
             <CardItem
               src='img/china1.jpg'
               text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
-              path='/services'
+              label='China'
+              path='/galerija'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/hrvatska.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
-              path='/services'
+              src='img/hrvatska.jpg'
+              text='Explore the hidden waterfall deep inside the Amazon Jungle Explore the hidden waterfall deep inside the Amazon Jungle Explore the hidden waterfall deep inside the Amazon Jungle'
+              label='Norveška'
+              path='/galerija'
             />
+            
             <CardItem
-              src='images/saturnia.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
-              path='/products'
+              src='img/comfort1.jpg'
+              text='Travel through the Islands of Bali in a Private Cruise'
+              label='China'
+              path='/galerija'
             />
+          </ul>
+          <ul className='cards__items'>
             <CardItem
-              src='images/senja1.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
-              path='/sign-up'
+              src='img/saturnia.jpg'
+              text='Explore the hidden waterfall deep inside the Amazon Jungle Explore the hidden waterfall deep inside the Amazon Jungle Explore the hidden waterfall deep inside the Amazon Jungle'
+              label='Norveška'
+              path='/galerija'
+            />
+            
+            <CardItem
+              src='img/kefalonija4.jpg'
+              text='Travel through the Islands of Bali in a Private Cruise'
+              label='China'
+              path='/galerija'
             />
           </ul>
         </div>
