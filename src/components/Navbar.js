@@ -29,7 +29,7 @@ window.addEventListener('resize', showButton)
             <div className='navbar-container'>
                 <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>WORLD++</Link>
 
-                <div classNme='menu-icon' onClick={handleClick}>
+                <div className='menu-icon' onClick={handleClick}>
                 <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
 
                 </div>
@@ -43,10 +43,6 @@ window.addEventListener('resize', showButton)
 </li>
 <li className='nav-item'>
                 <Link to='/galerija' className='nav-links' onClick={closeMobileMenu}> Galerija </Link>
-</li>
-               
-                <li className='nav-item'>
-                <Link to='/kontakt' className='nav-links' onClick={closeMobileMenu}> Kontakt </Link>
 </li>
 </ul>
 {button && <Button buttonStyle='btn--outline'>Kontakt</Button>}
