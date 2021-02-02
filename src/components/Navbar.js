@@ -36,7 +36,7 @@ window.addEventListener('resize', showButton)
                 <ul className={click ? 'nav-menu active':'nav-menu'}>
 
                 <li className='nav-item'>
-                <Link to='/' className='nav-links' onClick={closeMobileMenu}> Pocetna </Link>
+                <Link to='/' className='nav-links' onClick={closeMobileMenu}> Početna </Link>
 </li>
 <li className='nav-item'>
                 <Link to='/destinacije' className='nav-links' onClick={closeMobileMenu}>Destinacije </Link>
