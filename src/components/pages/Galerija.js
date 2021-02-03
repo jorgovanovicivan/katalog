@@ -5,7 +5,7 @@ export default function Galerija() {
   return( 
     <div className='main'>
     <img src="img/saturniavelikitekst.png" id='slika'/>
-<img src="img/saturnia2.jpg" id='slika'/>
+<img src="img/saturnia2PNG.png" id='slika'/>
 <img src="img/china4.png" id='slika'/>
 <img src="img/china1druga.png"id='slika'/>
 <img src="img/senjajezeroPNG.png" id='slika'/>

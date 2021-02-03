@@ -18,8 +18,6 @@ export const SliderData=[{
 },{
     video:'img/golubac1.jpg'
 },{
-    video:'img/golubac3.jpg'
-},{
     video:'img/tara.jpg'
 },
 

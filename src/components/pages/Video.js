@@ -1,14 +1,16 @@
 import React from 'react';
-import '../App.css';
+import '../../App.css';
 
-function video() {
+function Video() {
   return (
-    
+   
+
+
     function toggle(){
       var trailer=document.querySelector(".trailer")
       trailer.classList.toggle("active")
     }
-   
+    
     
   );
 }
