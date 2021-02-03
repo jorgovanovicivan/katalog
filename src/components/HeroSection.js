@@ -8,7 +8,7 @@ function HeroSection() {
     <div className='hero-container'>
       <h1>Zdravo</h1>
       <video src='/video/video1.mp4' autoPlay loop muted />
-      <p>Mi smo world++ </p>
+      <p>Mi smo   WORLD++ </p>
       <div className='hero-btns'>
        
         <Button
@@ -17,7 +17,7 @@ function HeroSection() {
           buttonSize='btn--large'
           onClick={console.log('hey')}
         >
-         Promo Video<i className='far fa-play-circle' />
+         KONTAKT
         </Button>
       </div>
     </div>

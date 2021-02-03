@@ -4,23 +4,23 @@ import './Galerija.css';
 export default function Galerija() {
   return( 
     <div className='main'>
-    <img src="img/saturniavelikitekst.png" alt=""/>
-<img src="img/saturnia2.jpg" alt=""/>
-<img src="img/china4.png" alt=""/>
-<img src="img/china1druga.png" alt=""/>
-<img src="img/senjajezeroPNG.png" alt=""/>
-<img src="img/senja1novo.png" alt=""/>
-<img src="img/loften-senjagal.png" alt=""/>
-<img src="img/senja2fotototo.png" alt=""/>
-<img src="img/kefalonijatekst.png" alt=""/>
-<img src="img/kefalonija111png.png" alt=""/>
-<img src="img/kefalonija2tekt123.png" alt=""/>
-<img src="img/kefalonija4png.png" alt=""/>
-<img src="img/comfortprva.png" alt=""/>
-<img src="img/comfort1png.png" alt=""/>
-<img src="img/comfort3tekst.png" alt=""/>
+    <img src="img/saturniavelikitekst.png" id='slika'/>
+<img src="img/saturnia2.jpg" id='slika'/>
+<img src="img/china4.png" id='slika'/>
+<img src="img/china1druga.png"id='slika'/>
+<img src="img/senjajezeroPNG.png" id='slika'/>
+<img src="img/senja1novo.png"id='slika'/>
+<img src="img/loften-senjagal.png" id='slika'/>
+<img src="img/senja2fotototo.png" id='slika'/>
+<img src="img/kefalonijatekst.png" id='slika'/>
+<img src="img/kefalonija111png.png"id='slika'/>
+<img src="img/kefalonija2tekt123.png" id='slika'/>
+<img src="img/kefalonija4png.png" id='slika'/>
+<img src="img/comfortprva.png" id='slika'/>
+<img src="img/comfort1png.png" id='slika'/>
+<img src="img/comfort3tekst.png" id='slika'/>
 
-<img src="img/galesnjakpng.png" alt=""/>
+<img src="img/galesnjakpng.png" id='slika'/>
   </div>
   );
   

@@ -23,7 +23,7 @@ function Destinations() {
               Veće živopisno područje Vulingiuan prostire se na 397,5 kvadratnih kilometara. Kolektivno područje Vulingiuan nalazi se pod zaštitom UNESCO-a. Nacionalni park šuma Zhangjiajie je verovatno najželjeniji deo područja.
               
               Park se sastoji od gustih šuma, dubokih jaruga, dubokih kanjona, neobičnih vrhova, pećina i kamenih formacija nalik na stupove prekrivenih čitavim parkom. Ove stubne stenske formacije su ono po čemu je park poznat širom sveta.'
-              label='China'
+              label='Kina'
               path='/galerija'
             />
           </ul>

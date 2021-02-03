@@ -19,6 +19,6 @@ img{
 	transition: transform 2s;
 	
 }
-img:hover{
+#slika:hover{
 	transform: scale(1.3);
 }
